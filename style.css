@@ -1,0 +1,30 @@
+div {
+  width: 150px;
+  height: 150px;
+
+  /* background-color: green; */
+
+  /* lengkungan kecil */
+  /* border-radius: 10px; */
+
+  /* lingkaran sempurna */
+  border-radius: 50%;
+
+  border: 5px solid green;
+}
+
+button {
+  margin-top: 1rem;
+
+  width: 80px;
+  height: 80px;
+
+  /* border-radius: untuk mengatur lengkungan suatu elemen */
+  /* contoh */
+  border-radius: 50%;
+  /* box-shadow: untuk menambahkan bayang */
+  /* box-shadow: horizontal vertikal */
+  box-shadow: 5px 5px;
+
+  background: rgba(66, 153, 225, 0.6);
+}
